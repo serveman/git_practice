@@ -1,0 +1,7 @@
+[user]
+	name = serveman
+	email = serveman6325@gmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
